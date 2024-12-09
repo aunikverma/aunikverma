@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aunikverma
 - 👀 I’m interested in coding,webdev,ml
 - 🌱 I’m currently learning dsa through c++
-- 💞️ I’m looking to collaborate on fmcg companies
+- 💞️ I’m looking to collaborate with fmcg companies
 - 📫 How to reach me ...email:aunikverma36@gmail.com
 
 
